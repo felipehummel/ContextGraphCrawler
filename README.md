@@ -38,6 +38,7 @@ A versão mais recente deu problemas por isso estamos usando uma mais antiga (di
 2. `sudo python setup.py install`
 
 -----NLTK-----
+
 http://www.nltk.org/download (http://nltk.googlecode.com/files/nltk-2.0b6.zip)
 Tem também via .deb (http://nltk.googlecode.com/files/nltk_2.0b5-1_all.deb). Mas não testei
 
