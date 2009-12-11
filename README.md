@@ -13,10 +13,10 @@ LIBS:
 
 http://www.csie.ntu.edu.tw/~cjlin/libsvm/ (http://www.csie.ntu.edu.tw/~cjlin/cgi-bin/libsvm.cgi?+http://www.csie.ntu.edu.tw/~cjlin/libsvm+zip)
 
-	1. Descompacta libsvm+zip
-	2. Ir na pasta /python
-	3. make
-	4. python setup.py install
+1. Descompacta libsvm+zip
+2. Ir na pasta /python
+3. make
+4. python setup.py install
 
 * Tornado Web Server
 http://www.tornadoweb.org/ (http://www.tornadoweb.org/static/tornado-0.2.tar.gz)
