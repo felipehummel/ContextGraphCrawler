@@ -1,6 +1,5 @@
 nltk*
 *.pyc
-svmBD.py
 *.so
 svm.py
 BeautifulSoup*
